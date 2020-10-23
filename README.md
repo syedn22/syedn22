@@ -14,15 +14,17 @@
 
 ### - 🥅 2020 Goals: Contribute more to Open Source projects
 
-<a href="www.linkedin.com/in/syed-mohammed-rahimuddin-n-219623172">
-  <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg"/>
-</a>
-<a href="https://github.com/syedn22">
-  <img align="left"  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/iamsyedrahim/">
-  <img align="left"  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<div align="left">
+  <a href="www.linkedin.com/in/syed-mohammed-rahimuddin-n-219623172">
+    <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg"/>
+  </a>
+  <a href="https://github.com/syedn22">
+    <img   width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  <a href="https://www.instagram.com/iamsyedrahim/">
+    <img   width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</div>
 
 <br/>
 
