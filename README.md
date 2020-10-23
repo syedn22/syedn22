@@ -6,11 +6,13 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I am a passionate self-taught programmer from India.
+### - 🔭 Ask me about React JS
 
-- 🔭 Ask me about React JS
-- 🌱 I’m currently learning Flask
-- 📫 How to reach me:
+### - 🌱 I’m currently learning Flask
+
+### - 📫 How to reach me:
+
+### - 🥅 2020 Goals: Contribute more to Open Source projects
 
 <a href="www.linkedin.com/in/syed-mohammed-rahimuddin-n-219623172">
   <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg"/>
@@ -22,7 +24,7 @@ I am a passionate self-taught programmer from India.
   <img align="left"  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
+<br/>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedn22&theme=radical&hide_langs_below=1&layout=compact" />
