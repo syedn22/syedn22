@@ -1,40 +1,26 @@
 ### Hi there 👋
-### I am syed Mohammed 
-### I'm currently doing Msc in Coimbatore institute of technology
-### Learning new stuffs is my favourite
-### I ❤️ Memes
 
-<a href="https://discord.gg/6uvgmNa">
-  <img align="left" alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/ohidurbappy">
-  <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ohidurbappy/">
-  <img align="left" alt="Ohidur Rahman Bappy's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ohidurbappy">
-  <img align="left" alt="Ohidur Rahman Bappy's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/ohidurbappy/">
-  <img align="left" alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ohidurbappy/">
-  <img align="left" alt="Ohidur Rahman Bappy's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+### I am syed Mohammed
 
 <br />
 
-
 ### Glad to see you here! 🤩 &nbsp;
 
-I am a passionate self-taught programmer from Bangladesh.
-- 🔭 I’m currently working on my project [To Mail](https://github.com/ohidurbappy/ToMail)
-- 🌱 I’m currently learning React JS
-<!-- - 👯 I’m looking to collaborate on [Mardown Editor - Editor.md](https://github.com/ohidurbappy/editor.md)
-- 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
-- 📫 How to reach me: me@ohidur.com <br>
-- 🥅 2020 Goals: Contribute more to Open Source projects -->
+I am a passionate self-taught programmer from India.
+
+- 🔭 Ask me about React JS
+- 🌱 I’m currently learning Flask
+- 📫 How to reach me:
+
+<a href="www.linkedin.com/in/syed-mohammed-rahimuddin-n-219623172">
+  <img align="left" src="https://img.icons8.com/nolan/64/linkedin.png"/>
+</a>
+<a href="https://github.com/syedn22">
+  <img align="left"  width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/iamsyedrahim/">
+  <img align="left"  width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 **Languages and Tools:** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -43,16 +29,14 @@ I am a passionate self-taught programmer from Bangladesh.
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&theme=radical&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
 </p>
 
-*PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+_PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <br />
-
 
 <!--
 **syedn22/syedn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
