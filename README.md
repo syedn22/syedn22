@@ -22,9 +22,6 @@ I am a passionate self-taught programmer from India.
   <img align="left"  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br>
-<br>
-
 
 
 <p align="center">
