@@ -1,11 +1,13 @@
-<h1 align="center" style="font-family:sans-serif"> Hi there 👋 , I am syed Mohammed Rahimuddin </h1>
+<h1 align="center" style="font-family:monospace"> Hi there 👋 , I am syed Mohammed Rahimuddin </h1>
 
 <br />
 
-<img src="https://cdn.dribbble.com/users/1787323/screenshots/11310814/media/78d925f388bdfd914f5c84a30261e239.png">
+<img width="800px" src="https://cdn.dribbble.com/users/1787323/screenshots/11310814/media/78d925f388bdfd914f5c84a30261e239.png">
 
 <br/>
 <hr/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedn22" alt="syedn22" /> </p>
+
 
 ### Glad to see you here! 🤩 &nbsp;
 
